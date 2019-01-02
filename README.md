@@ -5,4 +5,4 @@ Programme réaliser en C# Permetant de calculer la somme des premier nombres ent
 Pour le Lancer :     
 premier-nombres-entiers-avec-tantque/premier nombres entiers avec tantque/bin/Debug/premier nombres entiers avec tantque.exe     
 Pour voir le code :     
-premier-nombres-entiers-avec-r-peter/premier nombres entiers avec répeter/Program.cs
+premier-nombres-entiers-avec-tantque/premier nombres entiers avec tantque/Program.cs
