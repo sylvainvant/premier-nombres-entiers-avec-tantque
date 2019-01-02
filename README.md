@@ -1,6 +1,7 @@
 # premier nombres entiers avec tantque
 
-Programme réaliser en C# Permetant de calculer la somme des premier nombres entiers avec une boucle tantque :     
+Programme réaliser en C#          
+Permetant de calculer la somme des premier nombres entiers avec une boucle tantque :           
 while( )      
           {     
      
